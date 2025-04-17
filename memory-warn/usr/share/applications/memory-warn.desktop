@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Memory Warn
+Comment=Avisa cuando la memoria supera un límite establecido
+Exec=memory-warn
+Icon=memory-warn
+Terminal=false
+Type=Application
+Categories=Utility;System;
